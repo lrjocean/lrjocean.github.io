@@ -11,11 +11,10 @@ type: page
 
 ## 工具
 
-* [Unix 时间戳 Unix timestamp](http://tool.chinaz.com/Tools/unixtime.aspx)
+* <a href="http://tool.chinaz.com/Tools/unixtime.aspx" target="_blank"> Unix 时间戳 Unix timestamp</a>
 
-- [在线正则表达式匹配](https://regex101.com/)
+- <a href="https://regex101.com/" target="_blank">在线正则表达式匹配</a>
     - 这个功能更强大一点，能清楚的区分出贪婪和懒惰正则。
-- [http://regexr.com/](http://regexr.com/)
 - <a href="http://regexr.com/" target="_blank">http://regexr.com/</a>
 
 ## 编程语言
