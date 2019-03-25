@@ -11,6 +11,8 @@ type: page
 
 ## 关注
 * <a href="https://www.zhihu.com/people/mli65/posts" target="_blank"> 李沐(知乎)</a>
+* <a href="https://zhuanlan.zhihu.com/JeemyJohn" target="_blank"> 深度学习/机器学习</a>
+* <a href="https://www.jianshu.com/u/zqtge6" target="_blank">爱可可老师</a>
 
 ## 工具
 
