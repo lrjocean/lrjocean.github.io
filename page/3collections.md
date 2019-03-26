@@ -15,7 +15,6 @@ type: page
 
 ### 爱可可老师
 * <a href="https://www.jianshu.com/u/zqtge6" target="_blank">爱可可老师(简书)</a>
-
 * <a href="https://www.zhihu.com/collection/115674253" target="_blank">爱可可老师(知乎)</a>
 
 ### 推荐系统  
