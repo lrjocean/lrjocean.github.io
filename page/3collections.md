@@ -23,6 +23,7 @@ type: page
 
 #### 面试相关
 * <a href="https://zhuanlan.zhihu.com/c_140166199" target="_blank">bat面试</a>
+* <a href="https://zhuanlan.zhihu.com/p/58434325?utm_source=wechat_session&utm_medium=social" target="_blank">机器学习算法岗面试与提问总结</a>
 
 ## 知识点
 #### 动态规划
