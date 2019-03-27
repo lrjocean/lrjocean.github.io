@@ -17,6 +17,7 @@ type: page
 * <a href="https://zhuanlan.zhihu.com/liuyan0612" target="_blank">深度学习经典，前沿论文阅读笔记关注专栏写文章</a>
 * <a href="https://zhuanlan.zhihu.com/wangzhenotes" target="_blank">王喆的机器学习笔记</a>
 * <a href="https://zhuanlan.zhihu.com/c_201634018" target="_blank">SIGAI人工智能讲堂</a>
+* <a href="https://www.cnblogs.com/pinard/" target="_blank">刘建平</a>
 
 #### 推荐系统  
 * <a href="https://github.com/hongleizhang/RSPapers" target="_blank">推荐系统论文</a>  
