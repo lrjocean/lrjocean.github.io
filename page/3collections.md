@@ -28,6 +28,7 @@ type: page
 #### 动态规划
 * <a href="https://zhuanlan.zhihu.com/p/33574315" target="_blank">动态规划问题总结</a>
 * <a href="https://zhuanlan.zhihu.com/p/52504407" target="_blank">YouTube深度学习推荐系统的十大工程问题</a>
+* <a href="https://zhuanlan.zhihu.com/p/58160982" target="_blank">推荐系统召回四模型之：全能的FM模型</a>
 
 ## 工具
 * <a href="http://tool.chinaz.com/Tools/unixtime.aspx" target="_blank"> Unix 时间戳</a>
