@@ -14,13 +14,20 @@ type: page
 * <a href="https://www.zhihu.com/people/mli65/posts" target="_blank"> 李沐(知乎)</a>
 * <a href="https://zhuanlan.zhihu.com/JeemyJohn" target="_blank"> 深度学习/机器学习</a>
 * <a href="https://www.jianshu.com/u/zqtge6" target="_blank">爱可可老师(简书)</a> <a href="https://www.zhihu.com/collection/115674253" target="_blank">爱可可老师(知乎)</a>
-* <a href="https://zhuanlan.zhihu.com/mlmath" target="_blank">机器学习与数学</a>
+* <a href="https://zhuanlan.zhihu.com/liuyan0612" target="_blank">深度学习经典，前沿论文阅读笔记关注专栏写文章</a>
+* <a href="https://zhuanlan.zhihu.com/wangzhenotes" target="_blank">王喆的机器学习笔记</a>
+* <a href="https://zhuanlan.zhihu.com/c_201634018" target="_blank">SIGAI人工智能讲堂</a>
 
 #### 推荐系统  
 * <a href="https://github.com/hongleizhang/RSPapers" target="_blank">推荐系统论文</a>  
 
 #### 面试相关
 * <a href="https://zhuanlan.zhihu.com/c_140166199" target="_blank">bat面试</a>
+
+## 知识点
+#### 动态规划
+* <a href="https://zhuanlan.zhihu.com/p/33574315" target="_blank">动态规划问题总结</a>
+* <a href="https://zhuanlan.zhihu.com/p/52504407" target="_blank">YouTube深度学习推荐系统的十大工程问题</a>
 
 ## 工具
 * <a href="http://tool.chinaz.com/Tools/unixtime.aspx" target="_blank"> Unix 时间戳</a>
