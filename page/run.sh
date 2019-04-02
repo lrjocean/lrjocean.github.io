@@ -10,7 +10,7 @@ file=${arr[$1]}
 
 if [ $file ];
 then
-    git pull
+    #git pull
     git add $file
     git commit -m "file"
     git push origin master
