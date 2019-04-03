@@ -21,6 +21,7 @@ type: page
 
 #### 推荐系统  
 * <a href="https://github.com/hongleizhang/RSPapers" target="_blank">推荐系统论文</a>  
+* <a href="https://yq.aliyun.com/teams/111/type_blog?tag_id=13321#team-container" target="_blank">阿里技术</a>  
 
 #### 面试相关
 * <a href="https://zhuanlan.zhihu.com/c_140166199" target="_blank">bat面试</a>
