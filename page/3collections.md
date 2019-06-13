@@ -23,6 +23,9 @@ type: page
 * <a href="https://github.com/hongleizhang/RSPapers" target="_blank">推荐系统论文</a>  
 * <a href="https://yq.aliyun.com/teams/111/type_blog?tag_id=13321#team-container" target="_blank">阿里技术</a>  
 
+#### paper
+* <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf" target="_blank">DSSM</a>  
+
 #### 面试相关
 * <a href="https://zhuanlan.zhihu.com/c_140166199" target="_blank">bat面试</a>
 * <a href="https://zhuanlan.zhihu.com/p/58434325?utm_source=wechat_session&utm_medium=social" target="_blank">机器学习算法岗面试与提问总结</a>
