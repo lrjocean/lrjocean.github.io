@@ -5,7 +5,9 @@ arr=("0archives.html"
     "1category.html"
     "2tags.html"
     "3collections.md"
-    "4about.md")
+    "4about.md"
+    "5notebook.md"
+    )
 file=${arr[$1]}
 
 if [ $file ];

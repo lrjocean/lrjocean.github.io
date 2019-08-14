@@ -1,3 +1,9 @@
+---
+layout: page
+title: notebook
+permalink: /about/
+icon: heart
+type: page
 [TOC]
 
 ## 朴素贝叶斯

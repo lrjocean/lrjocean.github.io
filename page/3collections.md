@@ -25,6 +25,7 @@ type: page
 
 #### paper
 * <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf" target="_blank">DSSM</a>  
+* <a href="https://arxiv.org/pdf/1803.05170.pdf" target="_blank">xdeepfm</a>  
 
 #### 面试相关
 * <a href="https://zhuanlan.zhihu.com/c_140166199" target="_blank">bat面试</a>
