@@ -5,7 +5,6 @@ permalink: /about/
 icon: heart
 type: page
 ---
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 [TOC]
 
 ## 朴素贝叶斯
@@ -13,7 +12,7 @@ type: page
 - 朴素的原因: 假设特征之间相互独立
 - 根据贝叶斯公式推导得到;
 #### 公式
-- $P(y_i|X) = P(y_i)*\prod_{j=1}^{m}P(x_j|y_i)$
+$P(y_i|X) = P(y_i)*\prod_{j=1}^{m}P(x_j|y_i)$
 - 公式说明: 后验概率 = 先验概率*似然函数
 - $P(y_i)$ 是统计样本中$y_i$标签的比例;
 - $P(x_j|y_i)$ 是统计$y_i$标签下$x_i$特征的比例;
