@@ -5,10 +5,9 @@ permalink: /about/
 icon: heart
 type: page
 ---
-
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 [TOC]
 
-$$P(y_i|X) = P(y_i)*\prod_{j=1}^{m}P(x_j|y_i)$$
 ## 朴素贝叶斯
 #### 原理
 - 朴素的原因: 假设特征之间相互独立
